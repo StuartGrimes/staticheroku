@@ -1,1 +1,1 @@
-web: gunicorn saticheroku.wsgi:application
+web: gunicorn staticheroku.wsgi:application

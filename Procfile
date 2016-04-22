@@ -1,0 +1,1 @@
+web: gunicorn saticheroku.wsgi:application
